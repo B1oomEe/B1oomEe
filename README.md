@@ -15,7 +15,7 @@
 
 - 2nd-year student at RTU MIREA (Institute of Information Technologies, systems analysis)
 - Writing Python since 2023: Telegram bots, REST APIs, PostgreSQL-backed services
-- Built the backend of a VPN service with ~400 users as part of a 3-person team
+- Built the backend of a VPN service as part of a 3-person team
 - Winner of two hackathons in 2026
 
 ### Stack
